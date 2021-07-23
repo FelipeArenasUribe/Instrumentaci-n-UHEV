@@ -1,2 +1,2 @@
 # Instrumentaci-n-UHEV
-Desarrollo de osftware para el sistema de instrumentación de vehpiculos prototipos eléctricos.
+Desarrollo de software para el sistema de instrumentación de vehpiculos prototipos eléctricos.
