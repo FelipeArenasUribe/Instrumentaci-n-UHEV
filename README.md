@@ -1,6 +1,9 @@
-# Instrumentacion-UHEV
-Desarrollo de software para el sistema de instrumentación de vehículos prototipos eléctricos.
+# Telemetry-System developed by UHEV
 
-El archivo GPS_Mixed permite realizar pruebas en el monitor serial.
+This system allows to measure the performance of an electric prototype vehicle. It was specially designed to test and tune the performance of a battery-electric supermilleage vehicle. 
 
-El archivo GPS_Final permite almacenar la informacion dentro de la tarjeta SD.
+The system allows to measure four variables: Current, Voltage, Wheel-RPM and Motor-RPM.
+
+It is currently under development and the software is not fully finished, but it should do his work.
+
+If you have any suggestion or question please contact me: felipearenasuribe@gmail.com
